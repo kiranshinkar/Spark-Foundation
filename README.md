@@ -18,7 +18,7 @@ Problem Statement:
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 Use R or Python or perform this task.
 
-Dataset : _ Iris.csv or  https://bit.ly/3kXTdox
+Dataset : _ Iris.csv 
 Solution: Prediction using UnSupervised ML
 Youtube: " https://youtu.be/l0x6f2SQ96s "
 
